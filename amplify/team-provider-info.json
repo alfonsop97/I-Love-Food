@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ilovefood-staging-32007-authRole",
+      "UnauthRoleArn": "arn:aws:iam::421113866480:role/amplify-ilovefood-staging-32007-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::421113866480:role/amplify-ilovefood-staging-32007-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ilovefood-staging-32007-deployment",
+      "UnauthRoleName": "amplify-ilovefood-staging-32007-unauthRole",
+      "StackName": "amplify-ilovefood-staging-32007",
+      "StackId": "arn:aws:cloudformation:us-east-1:421113866480:stack/amplify-ilovefood-staging-32007/1a8d3bf0-4b6f-11ed-a25b-0a5ddc4a34c7",
+      "AmplifyAppId": "dgpoqgnqrepvg"
+    },
+    "categories": {
+      "auth": {
+        "ILoveFood": {}
+      }
+    }
+  }
+}
