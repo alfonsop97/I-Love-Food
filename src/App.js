@@ -118,7 +118,7 @@ const App = ({ signOut }) => {
                 src={note.image}
                 alt={'visual aid for ${notes.name}'}
                 style={{ width: 400 }}
-                />
+              />
             )}
             <Button variation="link" onClick={() => deleteNote(note)}>
               Delete Food
