@@ -1,0 +1,14 @@
+{
+  "resourceName": "imageStore",
+  "policyUUID": "6415041e",
+  "bucketName": "ilovefood2b5d952e01764dddb99b1a80e7a5d7fe",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
